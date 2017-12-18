@@ -1,0 +1,56 @@
+body{
+    background-color: #FFFFF;
+    font-family: 'Roboto', sans-serif;
+}
+p{
+    font-weight: 200;
+    font-size: 16px
+}
+
+ul {
+    list-style-type: none;
+    margin: 5;
+    padding: 10;
+}
+.ommig{
+    padding: 20%;
+}
+.jagbild{
+    padding-top: 220px;
+    float: left;
+}
+footer img{
+    height: 20px;
+    margin-left: 230px;
+}
+.border{
+    border-style: double;
+}
+
+.footericons{
+    border-style:outset;
+        
+}
+ul {
+    list-style-type: none;
+    margin: 0.3%;
+    padding: 5px;
+    overflow: hidden;
+    background-color: #777777;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: floralwhite;
+    text-align: white;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #777777;
+}
